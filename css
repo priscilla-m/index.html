@@ -1,0 +1,47 @@
+body {
+	background-color: #CDD7D6;
+}
+
+#header {
+	background-color: #102542;
+	text-align: center;
+	margin: 0 auto;
+	padding: 40px;
+}
+
+.header-pm {
+	margin: 10px auto 0;
+	color: #F87060;
+	font-family: 'Gruppo', cursive;
+	font-weight: bold;
+	font-size: 45px;
+}
+
+.header-titles {
+	margin: 0;
+	font-family: 'Gruppo', cursive;
+}
+
+.header-eat {
+	margin: 10px auto 0;
+	color: #A18276;
+	font-size: 20px;
+}
+
+.header-sleep {
+	margin: 10px auto 0;
+	color: #FFFFFF;
+	font-size: 20px;
+}
+
+.header-breathe {
+	margin: 10px auto 0;
+	color: #809BCE;
+	font-size: 20px;
+}
+
+.header-code {
+	margin: 10px auto 0;
+	color: #BAF2BB;
+	font-size: 20px;
+}
