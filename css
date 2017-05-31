@@ -72,18 +72,17 @@ nav ul li a {
 	display: block;
 }
 
-a, a:hover {
+a, a:link, a:visited, a:hover, a:active {
 	color: #102542;
 	text-decoration: none;
 }
 
 nav ul li:hover {
 	background-color: #F79C91;
-	list-style: none;
+	text-decoration: none;
 	color: #102542;
 }
 
 li.col-sm-4 {
 	padding: 5px 0;
 }
-
