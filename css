@@ -72,12 +72,12 @@ nav ul li a {
 	display: block;
 }
 
-a, a:link, a:visited, a:hover, a:active {
+nav ul li a, nav ul li a:link, nav ul li a:visited, nav ul li a:hover, nav ul li a:active {
 	color: #102542;
 	text-decoration: none;
 }
 
-nav ul li:hover {
+nav ul li:link, nav ul li:visited, nav ul li:hover, nav ul li:active {
 	background-color: #F79C91;
 	text-decoration: none;
 	color: #102542;
