@@ -1,0 +1,88 @@
+body {
+	background-color: #CDD7D6;
+}
+
+#header {
+	background-color: #102542;
+	text-align: center;
+	margin: 0 auto;
+	padding: 40px;
+}
+
+.header-pm {
+	margin: 10px auto 0;
+	color: #F87060;
+	font-family: 'Gruppo', cursive;
+	font-weight: bold;
+	font-size: 3em;
+}
+
+.header-titles {
+	margin: 0;
+	font-family: 'Gruppo', cursive;
+}
+
+.header-eat {
+	margin: 10px auto 0;
+	color: #A18276;
+	font-size: 0.7em;
+}
+
+.header-sleep {
+	margin: 10px auto 0;
+	color: #FFFFFF;
+	font-size: 0.7em;
+}
+
+.header-breathe {
+	margin: 10px auto 0;
+	color: #809BCE;
+	font-size: 0.7em;
+}
+
+.header-code {
+	margin: 10px auto 0;
+	color: #BAF2BB;
+	font-size: 0.7em;
+}
+
+nav ul li {
+	display: block;
+	text-align: center;
+	list-style: none;
+	background-color: #F87060;
+	font-family: 'Gruppo', cursive;
+	font-weight: bold;
+	font-size: 1.3em;
+	border: solid #102542 1px;
+	padding: 5px 0;
+	margin: -1px 0;
+}
+
+nav.container-fluid {
+	padding: 0 0 0 0;
+}
+
+ul.row {
+	display: block;
+	padding: 0;
+}
+
+nav ul li a {
+	display: block;
+}
+
+nav ul li a, nav ul li a:link, nav ul li a:visited, nav ul li a:hover, nav ul li a:active {
+	color: #102542;
+	text-decoration: none;
+}
+
+nav ul li:link, nav ul li:visited, nav ul li:hover, nav ul li:active {
+	background-color: #F79C91;
+	text-decoration: none;
+	color: #102542;
+}
+
+li.col-sm-4 {
+	padding: 5px 0;
+}
